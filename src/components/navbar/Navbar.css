@@ -1,0 +1,16 @@
+nav{
+  background: black;
+  color: white;
+  height: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+
+}
+
+.listNavbar{
+  display: flex;
+  gap:30px;
+  margin: 0 auto;
+  justify-content: right;
+}
